@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "779854138835",
+    "firebase_url": "https://pybot-65732.firebaseio.com",
+    "project_id": "pybot-65732",
+    "storage_bucket": "pybot-65732.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779854138835:android:386001c7bf3226dc",
+        "android_client_info": {
+          "package_name": "sumith.pacasian.pacy.pybot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779854138835-u38i31ifstm94lbdn6kj5dpmt2knud60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sumith.pacasian.pacy.pybot",
+            "certificate_hash": "305e26fcae5813af4b04f74bac01910af127a9ba"
+          }
+        },
+        {
+          "client_id": "779854138835-j5llcuttqi3snh48cchb6hdtrg27vhh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmAREN5js0AyQMzEjEptN5taKDVOLOZIo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779854138835-j5llcuttqi3snh48cchb6hdtrg27vhh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
